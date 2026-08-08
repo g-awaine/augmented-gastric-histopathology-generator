@@ -1,0 +1,8 @@
+most papers just use SD1.5x kl-f8 4 dimensional latent foctor 8 downsampling the encoder 
+
+finetune the backbone so it pivots to H&E stains of gastric pathology
+
+some how generate an image with IM in the mask
+
+hf_ERIxvwcpliarV
+ysOQAYtOqGWJKDNOjonGR
